@@ -1,6 +1,6 @@
 # 18
 
-This project generates a blockchain with user inputs and displays the information as a web application.
+This project generates a blockchain from user inputs and displays the information as a web application.
 
 Technologies The project is written in python 3.9 and uses streamlit, dataclasses, typing, pandas, datetime and hashlib libraries.
 
